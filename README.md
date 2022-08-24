@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @cypher-02
+- 👋 Hi, I’m @parth-singh
 - 👀 I’m interested in ethical hacking
 - 🌱 I’m currently learning about security
 - 💞️ I’m looking to collaborate on ...
